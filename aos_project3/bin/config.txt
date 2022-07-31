@@ -1,0 +1,40 @@
+#
+# Configuration file for AOS Project 3
+# 
+#
+# As per the "shell" convention, anything following a hash sign is
+# a comment and should be ignored by the parser.
+
+# Number of nodes
+10
+
+# First, we list the location of each node
+#
+# Format is:
+# Identifier	Hostname	Port
+0	dc27	44537
+1	dc28	44537
+2	dc29	44537
+3	dc30	44537
+4	dc31	44537
+5	dc32	44537
+6	dc33	44537
+7	dc34	44537
+8	dc35	44537
+9	dc36	44537
+# Numbers of files in the file system
+2
+
+# Parameters to control the behavior of the application
+
+# Number of operations executed per node
+10
+# Mean delay between two consecutive operations (assume exponentially distributed)
+10
+
+# Fraction of read operations
+80
+
+# Parameters of exponential backoff (minimum and maximum waiting times)
+16	128
+

@@ -1,0 +1,2 @@
+Node:2 -- started writing #24#[12, 16, 14]
+Node:2 -- finished writing#25#[12, 16, 15]

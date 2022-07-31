@@ -1,0 +1,4 @@
+Node:1 -- started writing #67#[43, 49, 43]
+Node:1 -- finished writing#67#[43, 49, 43]
+Node:0 -- started reading #89#[61, 63, 62]
+Node:0 -- finished reading#91#[63, 65, 62]

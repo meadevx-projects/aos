@@ -1,0 +1,8 @@
+Node:2 -- started reading #97#[66, 66, 69]
+Node:2 -- finished reading#97#[66, 66, 69]
+Node:1 -- started reading #121#[83, 89, 84]
+Node:1 -- finished reading#121#[83, 89, 84]
+Node:2 -- started reading #125#[86, 87, 89]
+Node:2 -- finished reading#125#[86, 87, 89]
+Node:0 -- started reading #132#[94, 94, 93]
+Node:0 -- finished reading#132#[94, 94, 93]

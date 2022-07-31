@@ -1,0 +1,406 @@
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
+Node:0 -- Output file:out.txt
+----------------------------------------------------------------
+------------- NodeDiscovery at Node: 0 -------------------------
+----------------------------------------------------------------
+Node:0 -- HostName:xenon-arcrzr2
+Node:0 -- Canonical Host Name:xenon-arcrzr2
+Node:0 -- Reading Config file
